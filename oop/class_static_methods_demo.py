@@ -9,4 +9,4 @@ class Calculator:
     def multiply(cls, a, b):
         """Class method: has access to the class itself through 'cls"""
         print(f"Calculation_type: {cls.calculation_type}")
-        return a *b
+        return a * b
